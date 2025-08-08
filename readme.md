@@ -17,6 +17,7 @@ Deploy this script as a Cloudflare Worker (or similar edge worker environment).
 
 - For GET requests, the DNS query is sent via the URL query string.
 - For POST requests, the DNS query is sent as a binary DNS message in the request body.
+- for Android Usage install Intra App.
 
 ## Code Overview
 
@@ -71,3 +72,4 @@ After deploying, **users must configure their DNS-over-HTTPS client or browser t
 ## سلب مسئولیت
 
 این نرم‌افزار صرفاً به منظور یادگیری و استفاده‌های قانونی و اخلاقی توسعه یافته است. استفاده نادرست یا سوءاستفاده از این ابزار برای دور زدن محدودیت‌ها یا قوانین کشوری ممکن است تبعات قانونی داشته باشد. نویسنده و منتشرکننده این کد هیچ‌گونه مسئولیتی در قبال استفاده غیرقانونی یا سوءاستفاده احتمالی از این نرم‌افزار نمی‌پذیرند. لطفاً همیشه قوانین محلی و سیاست‌های سرویس‌دهنده‌ها را رعایت کنید.
+
